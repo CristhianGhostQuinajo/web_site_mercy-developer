@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 14, 95);
+}
+nav{
+    background-color: rgb(36, 29, 54);
+    font-family: "sans-serif", cursive;
+}
+.TextoColor{
+    color: white;
+}
